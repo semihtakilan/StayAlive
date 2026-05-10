@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.StayAlive" parent="Theme.AppCompat.Light.NoActionBar" />
+
+    <!-- Platform DatePickerDialog themed to match medical blue palette. -->
+    <style name="ThemeOverlay.StayAlive.DatePicker" parent="ThemeOverlay.AppCompat.Dialog">
+        <item name="colorAccent">#FF007AFF</item>
+        <item name="android:colorAccent">#FF007AFF</item>
+        <item name="android:textColorPrimary">#FF1C1C1E</item>
+        <item name="android:textColorSecondary">#FF636366</item>
+        <item name="android:windowBackground">#FFFFFFFF</item>
+        <item name="android:datePickerStyle">@style/Widget.StayAlive.DatePicker</item>
+    </style>
+
+    <style name="Widget.StayAlive.DatePicker" parent="@android:style/Widget.Material.Light.DatePicker">
+        <item name="android:datePickerMode">calendar</item>
+        <item name="android:headerBackground">#FF007AFF</item>
+        <item name="android:colorAccent">#FF007AFF</item>
+    </style>
+</resources>

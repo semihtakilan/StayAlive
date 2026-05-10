@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tansiyon Takip</string>
+
+    <string name="nav_home">Ana sayfa</string>
+    <string name="nav_insights">Öngörüler</string>
+    <string name="nav_settings">Ayarlar</string>
+    <string name="content_desc_nav_home">Ana sayfa sekmesi</string>
+    <string name="content_desc_nav_insights">Öngörüler sekmesi</string>
+    <string name="content_desc_nav_settings">Ayarlar sekmesi</string>
+
+    <string name="home_summary_title">Durumunuz</string>
+    <string name="home_summary_avg_7d">Son 7 güne göre (ortalama)</string>
+    <string name="home_summary_latest">Son ölçüm</string>
+    <string name="home_summary_empty">Durumunuzu görmek için ölçüm ekleyin</string>
+    <string name="home_add_measurement">Yeni ölçüm ekle</string>
+    <string name="home_history_title">Geçmiş</string>
+    <string name="home_empty_history">Henüz ölçüm yok</string>
+
+    <string name="bp_sys_short">SİS</string>
+    <string name="bp_dia_short">DİA</string>
+    <string name="bp_pulse_short">Nabız</string>
+    <string name="bp_reading_format">%1$d / %2$d · %3$d</string>
+    <string name="bp_sys_dia_only">%1$d / %2$d</string>
+    <string name="field_value_pair">%1$s: %2$s</string>
+    <string name="placeholder_empty">—</string>
+
+    <string name="sheet_add_title">Yeni ölçüm</string>
+    <string name="sheet_edit_title">Ölçümü düzenle</string>
+    <string name="entry_field_sys">Sistolik</string>
+    <string name="entry_field_dia">Diyastolik</string>
+    <string name="entry_field_pulse">Nabız</string>
+    <string name="numpad_delete">Sil</string>
+    <string name="content_desc_numpad_delete">Son rakamı sil</string>
+    <string name="content_desc_numpad_digit">Rakam %1$d</string>
+    <string name="fmt_numpad_digit">%1$d</string>
+    <string name="action_save">Kaydet</string>
+    <string name="action_update">Güncelle</string>
+    <string name="action_delete">Ölçümü sil</string>
+    <string name="action_cancel">İptal</string>
+    <string name="error_invalid_measurement">Sistolik, diyastolik ve nabız için geçerli değerler girin</string>
+    <string name="error_save_measurement">Ölçüm kaydedilemedi. Lütfen tekrar deneyin.</string>
+    <string name="sheet_measurement_time">Ölçüm zamanı</string>
+    <string name="sheet_pick_date">Tarih</string>
+    <string name="sheet_pick_time">Saat</string>
+
+    <string name="insights_title">Öngörüler</string>
+    <string name="insights_chart_title">Trend (SİS / DİA)</string>
+    <string name="insights_chart_hint">Bir noktayı incelemek için grafiğe dokunup sürükleyin</string>
+    <string name="insights_chart_empty">Trendleri görmek için ölçüm ekleyin</string>
+    <string name="insights_legend_sys">Sistolik</string>
+    <string name="insights_legend_dia">Diyastolik</string>
+    <string name="chart_axis_suffix_mmhg"> mmHg</string>
+    <string name="chart_axis_two_lines">%1$s\n%2$s</string>
+    <string name="insights_selected_header">Seçilen ölçüm</string>
+    <string name="insights_datetime_join">%1$s · %2$s</string>
+    <string name="insights_tags_label">Etiketler</string>
+    <string name="insights_export_csv">Doktor için CSV dışa aktar</string>
+    <string name="export_chooser_title">Tansiyon dışa aktarmayı paylaş</string>
+
+    <string name="who_zone_green">Normal bölge</string>
+    <string name="who_zone_yellow">Yükselmiş bölge</string>
+    <string name="who_zone_orange">Evre 1 bölge</string>
+    <string name="who_zone_red">Evre 2 / kriz bölge</string>
+
+    <string name="tag_post_medication">İlaç sonrası</string>
+    <string name="tag_headache">Baş ağrısı</string>
+    <string name="tag_exercise">Egzersiz</string>
+    <string name="tag_resting">Dinlenme</string>
+    <string name="tag_stress">Stres</string>
+    <string name="tag_after_meal">Yemek sonrası</string>
+    <string name="tag_morning">Sabah</string>
+    <string name="tag_evening">Akşam</string>
+
+    <string name="settings_title">Ayarlar</string>
+    <string name="settings_profile_card">Profil</string>
+    <string name="settings_age_label">Yaş (yıl)</string>
+    <string name="settings_weight_label_metric">Kilo (kg)</string>
+    <string name="settings_weight_label_imperial">Kilo (lb)</string>
+    <string name="settings_height_label_metric">Boy (cm)</string>
+    <string name="settings_height_label_imperial">Boy (inç)</string>
+    <string name="settings_prefs_card">Tercihler</string>
+    <string name="settings_language_label">Dil</string>
+    <string name="settings_theme_label">Tema</string>
+    <string name="settings_units_label">Birimler</string>
+    <string name="option_language_tr">Türkçe</string>
+    <string name="option_language_en">İngilizce</string>
+    <string name="option_theme_light">Açık</string>
+    <string name="option_theme_dark">Koyu</string>
+    <string name="option_unit_metric">Metrik (kg / cm)</string>
+    <string name="option_unit_imperial">Emperyal (lb / inç)</string>
+</resources>
