@@ -50,7 +50,7 @@ To build and run this project locally on your machine:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/semihtakilan/stayalive-blood-pressure.git](https://github.com/semihtakilan/stayalive-blood-pressure.git)
+   git clone [https://github.com/semihtakilan/StayAlive.git](https://github.com/semihtakilan/StayAlive.git)
 2. Open the project in **Android Studio** (Koala or newer is recommended).
 3. Let Gradle sync and resolve all dependencies.
 4. Build and run the app on an emulator or a physical device running **API 26 (Android 8.0)** or higher.
