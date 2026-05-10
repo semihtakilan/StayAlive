@@ -64,7 +64,7 @@ To build and run this project locally on your machine:
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/semihtakilan/stayalive-blood-pressure/issues) if you want to contribute.
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/semihtakilan/StayAlive/issues) if you want to contribute.
 
 ## 👨‍💻 Author
 
