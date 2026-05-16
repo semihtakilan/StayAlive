@@ -69,5 +69,5 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 ## 👨‍💻 Author
 
 **Semih TAKILAN**
-Computer Engineering Student
+Computer Engineering Student & iOS Developer Candidate                                                                                                                           
 [LinkedIn Profile](https://www.linkedin.com/in/semihtakilan) | [GitHub Profile](https://github.com/semihtakilan)
